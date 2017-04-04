@@ -102,6 +102,6 @@ The first div will be a blue square, and the second div will be a blue square wi
 
 ## Part 1 Challenge
 If you [Google "Mondrian art"](https://www.google.com/search?q=mondrian+art&tbm=isch), you'll see images like this:
-![Mondrian art](http://mathpickle.com/wp-content/uploads/2015/08/Mondrian-Art-Puzzles.016.png)
+![Mondrian art](https://s-media-cache-ak0.pinimg.com/originals/ba/20/d7/ba20d7c9a9db61be00e80cd84f3f0e3c.jpg)
 
 Make your own, using divs, positioning, and mulitple classes!
