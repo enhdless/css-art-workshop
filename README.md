@@ -23,5 +23,5 @@ A quick review of these concepts are in Part 1.
   - Make an account to save work!
 
 ## :rocket: [Part 1](Part1.md)
-## Part 2
+## :rocket: [Part 2](Part2.md)
 ## Part 3
