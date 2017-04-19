@@ -24,4 +24,4 @@ A quick review of these concepts are in Part 1.
 
 ## :rocket: [Part 1](Part1.md)
 ## :rocket: [Part 2](Part2.md)
-## Part 3
+## :rocket: [Part 3](Part3.md)
