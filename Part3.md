@@ -1,7 +1,7 @@
-## Part 2
+## Part 3
 
-### Quick Part 1 Review
-Remember that divs are just boxes in HTML, and that classes can be used to apply different CSS to certain HTML elements, depending on which class is specified. Also, multiple classes can be used. Be able to understand this example:
+### Quick Part 2 Review
+Remember that triangles can be made with a CSS border trick, and the transform property can rotate things:
 ```
 .triangle {
   width: 0;
